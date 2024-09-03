@@ -5,11 +5,32 @@
 
 #helena{
 
-    margin-left: 650px;
+    margin-left: 790px;
+    width: 130px;
+    
 }
 
 .sobremim{
 
-    margin-left: 750px;
-    color: darkgreen;
+    margin-left: 780px;
+    color: darkolivegreen;
+    font-style: oblique;
+    
+}
+.titulo-principal{
+    margin-left: 790px;
+    color: rgb(10, 82, 52);
+    font-style: oblique;
+}
+.titulo-secundario{
+    margin-left: 760px;
+    color: darkolivegreen;
+    font-style: oblique;
+}
+
+.p1 {
+    margin-left:  440px;
+}
+.p2 {
+    margin-left: 440px;
 }
